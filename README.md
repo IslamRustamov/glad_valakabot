@@ -8,4 +8,4 @@
 
 ## Find him @glad_valakabot
 
-### Audio feauture doesnt always work since website I use for webscraping is kind of bad
+### Audio feauture was disabled since website with audios isn't working
