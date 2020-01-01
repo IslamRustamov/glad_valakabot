@@ -1,7 +1,6 @@
 # coding: UTF-8
 require 'telegram/bot'
 require_relative 'parser'
-require_relative 'parsers_classes'
 
 WHAT = ['каво?', 'нипонял', 'эта що такое', 'КАВО', 'БАН']
 
