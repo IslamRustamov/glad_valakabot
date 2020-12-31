@@ -23,7 +23,7 @@ GEM
     mini_portile2 (2.4.0)
     multi_xml (0.6.0)
     multipart-post (2.1.1)
-    nokogiri (1.10.7)
+    nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     telegram-bot-ruby (0.11.0)
       faraday
@@ -41,7 +41,7 @@ PLATFORMS
 
 DEPENDENCIES
   httparty (~> 0.17.1)
-  nokogiri (~> 1.10, >= 1.10.7)
+  nokogiri (~> 1.10)
   telegram-bot-ruby (~> 0.11.0)
 
 BUNDLED WITH
